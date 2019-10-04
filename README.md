@@ -1,5 +1,11 @@
+# Intro
+
+Sorry for the mess, this is to be clean out, but for now it works as a space for all the theories and the results we have found over the course of the 4 month we worked on the thesis.
+
+The thesis paper can be found in the thesis folder.
 
 ## INSTALL
+
 run 
 1. sh compiling_scripts/newInstall.sh
 2. sh compiling_scripts/ParrotSphinxInstall.sh
