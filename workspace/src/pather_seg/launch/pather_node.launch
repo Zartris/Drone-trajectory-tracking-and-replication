@@ -1,0 +1,6 @@
+<launch>
+    <node name="path_segmenter" pkg="pather_seg" type="pather_node" output="screen"/>
+    <param name="squaredDistanceThreshold" value="0.008" type="double"/>
+    <remap from="pose_estimate" to="/orb_slam2/bebop_pose"/>
+    <remap from="path_estimate" to="/orb_slam2/path1"/>
+</launch>

@@ -1,0 +1,8 @@
+cam0:
+  cam_overlaps: []
+  camera_model: pinhole
+  distortion_coeffs: [.nan, .nan, .nan, .nan]
+  distortion_model: equidistant
+  intrinsics: [.nan, .nan, .nan, .nan]
+  resolution: [856, 480]
+  rostopic: /bebop/image_mono

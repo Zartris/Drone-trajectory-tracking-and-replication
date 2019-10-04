@@ -1,0 +1,11 @@
+Build: 
+catkin build -DCMAKE_BUILD_TYPE=Release -j4
+
+RUN:
+
+equi -
+rosrun kalibr kalibr_calibrate_rs_cameras --model pinhole-equi-rs --target ../dataset/bebop2/april_6x6_50x50cm.yaml --topic /bebop/image_mono --bag ../dataset/bebop2/cam_cal.bag --inverse-feature-variance 1 --frame-rate 30
+
+radtan -
+rosrun kalibr kalibr_calibrate_rs_cameras --model pinhole-radtan-rs --target ../dataset/bebop2/april_6x6_50x50cm.yaml --topic /bebop/image_mono --bag ../dataset/bebop2/cam_cal.bag --inverse-feature-variance 1 --frame-rate 30
+

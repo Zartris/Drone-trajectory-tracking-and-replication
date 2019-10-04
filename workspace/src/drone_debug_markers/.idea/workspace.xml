@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="drone_debug_markers" targetName="nav_msgs_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="visualization_msgs_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="martin_msg_lib_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="gmock" />
+      <config projectName="drone_debug_markers" targetName="roscpp_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="tf_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="tf_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="download_extra_data" />
+      <config projectName="drone_debug_markers" targetName="visualization_msgs_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="martin_msg_lib_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="run_tests" />
+      <config projectName="drone_debug_markers" targetName="gtest_main" />
+      <config projectName="drone_debug_markers" targetName="tests" />
+      <config projectName="drone_debug_markers" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="visualization_msgs_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="martin_msg_lib_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="clean_test_results" />
+      <config projectName="drone_debug_markers" targetName="actionlib_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="visualization_msgs_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="martin_msg_lib_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="gtest" />
+      <config projectName="drone_debug_markers" targetName="gmock_main" />
+      <config projectName="drone_debug_markers" targetName="doxygen" />
+      <config projectName="drone_debug_markers" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="actionlib_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="tf_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="nav_msgs_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="drone_debug" />
+      <config projectName="drone_debug_markers" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="std_msgs_generate_messages_py" />
+      <config projectName="drone_debug_markers" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="nav_msgs_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="nav_msgs_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="tf_generate_messages_cpp" />
+      <config projectName="drone_debug_markers" targetName="tf_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="drone_debug_markers" targetName="visualization_msgs_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="martin_msg_lib_generate_messages_lisp" />
+      <config projectName="drone_debug_markers" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="drone_debug_markers" targetName="roscpp_generate_messages_eus" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e6326b0-b7f5-463d-9852-17cfa16035e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../control_scale_estimator/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../control_scale_estimator/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../control_scale_estimator/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../control_scale_estimator/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../control_scale_estimator/src/node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../control_scale_estimator/src/node.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/node.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navigation/path_navigator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../navigation/path_navigator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navigation/pid_control_bebop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../navigation/pid_control_bebop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navigation/pid_control_bebop/src/Drone.py" beforeDir="false" afterPath="$PROJECT_DIR$/../navigation/pid_control_bebop/src/Drone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navigation/pid_control_bebop/src/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/../navigation/pid_control_bebop/src/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orb_slam_2_ros/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../orb_slam_2_ros/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orb_slam_2_ros/ros/src/Node.cc" beforeDir="false" afterPath="$PROJECT_DIR$/../orb_slam_2_ros/ros/src/Node.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pather_seg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pather_seg/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pather_seg/launch/pather_node.launch" beforeDir="false" afterPath="$PROJECT_DIR$/../pather_seg/launch/pather_node.launch" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/node.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-75">
+              <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/node.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="57" />
+    <option name="y" value="-4" />
+    <option name="width" value="1863" />
+    <option name="height" value="1204" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="drone_debug_markers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drone_debug_markers" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="drone_debug_markers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drone_debug_markers" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="drone_debug_markers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="drone_debug_markers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drone_debug_markers" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="drone_debug_markers" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.drone_debug">
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="drone_debug" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="drone_debug" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="drone_debug_markers" RUN_TARGET_NAME="drone_debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="martin_msg_lib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="martin_msg_lib_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="martin_msg_lib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="martin_msg_lib_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="martin_msg_lib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="martin_msg_lib_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="martin_msg_lib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="martin_msg_lib_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="martin_msg_lib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="martin_msg_lib_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="nav_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="nav_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="nav_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="nav_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="nav_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="visualization_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="visualization_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="visualization_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="visualization_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visualization_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="drone_debug_markers" TARGET_NAME="visualization_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.actionlib_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_generate_messages_py" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_py" />
+      <item itemvalue="Application.clean_test_results" />
+      <item itemvalue="Application.download_extra_data" />
+      <item itemvalue="Application.doxygen" />
+      <item itemvalue="Application.drone_debug" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_eus" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="Application.martin_msg_lib_generate_messages_cpp" />
+      <item itemvalue="Application.martin_msg_lib_generate_messages_eus" />
+      <item itemvalue="Application.martin_msg_lib_generate_messages_lisp" />
+      <item itemvalue="Application.martin_msg_lib_generate_messages_nodejs" />
+      <item itemvalue="Application.martin_msg_lib_generate_messages_py" />
+      <item itemvalue="Application.nav_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.nav_msgs_generate_messages_eus" />
+      <item itemvalue="Application.nav_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.nav_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.nav_msgs_generate_messages_py" />
+      <item itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="Application.roscpp_generate_messages_eus" />
+      <item itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="Application.roscpp_generate_messages_py" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="Application.run_tests" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_eus" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_py" />
+      <item itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_msgs_generate_messages_py" />
+      <item itemvalue="Application.tests" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_eus" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_py" />
+      <item itemvalue="Application.tf_generate_messages_cpp" />
+      <item itemvalue="Application.tf_generate_messages_eus" />
+      <item itemvalue="Application.tf_generate_messages_lisp" />
+      <item itemvalue="Application.tf_generate_messages_nodejs" />
+      <item itemvalue="Application.tf_generate_messages_py" />
+      <item itemvalue="Application.visualization_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.visualization_msgs_generate_messages_eus" />
+      <item itemvalue="Application.visualization_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.visualization_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.visualization_msgs_generate_messages_py" />
+      <item itemvalue="Application.gmock" />
+      <item itemvalue="Application.gmock_main" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e6326b0-b7f5-463d-9852-17cfa16035e0" name="Default Changelist" comment="" />
+      <created>1553777540495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553777540495</updated>
+      <workItem from="1553777542313" duration="3652000" />
+      <workItem from="1554185214198" duration="11124000" />
+      <workItem from="1556123928805" duration="955000" />
+      <workItem from="1556166134642" duration="407000" />
+      <workItem from="1556880589689" duration="728000" />
+      <workItem from="1556889994299" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17500000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="-4" width="1863" height="1204" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26527244" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

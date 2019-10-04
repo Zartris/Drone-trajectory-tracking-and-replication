@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MARTIN GUI</class>
+ <widget class="QWidget" name="martin_gui">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>100</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MARTIN GUI</string>
+  </property>
+  <widget class="QLabel" name="battery_text">
+    <property name="geometry">
+      <rect>
+        <x>10</x>
+        <y>365</y>
+        <width>200</width>
+        <height>20</height>
+      </rect>
+    </property>
+    <property name="text">
+      <string>Awaiting battery messages</string>
+    </property>
+  </widget>
+  <widget class="QLabel" name="imu_hz_text">
+    <property name="geometry">
+      <rect>
+        <x>10</x>
+        <y>390</y>
+        <width>200</width>
+        <height>20</height>
+      </rect>
+    </property>
+    <property name="text">
+      <string>Awaiting IMU messages</string>
+    </property>
+  </widget>
+  <widget class="QLabel" name="cam_hz_text">
+    <property name="geometry">
+      <rect>
+        <x>10</x>
+        <y>415</y>
+        <width>210</width>
+        <height>20</height>
+      </rect>
+    </property>
+    <property name="text">
+      <string>Awaiting camera messages</string>
+    </property>
+  </widget>
+  <widget class="QPushButton" name="takeoff_button">
+    <property name="geometry">
+      <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>200</width>
+        <height>50</height>
+      </rect>
+    </property>
+    <property name="text">
+      <string>Take off!</string>
+    </property>
+  </widget>
+  <widget class="QPushButton" name="land_button">
+    <property name="geometry">
+      <rect>
+        <x>0</x>
+        <y>75</y>
+        <width>200</width>
+        <height>50</height>
+      </rect>
+    </property>
+    <property name="text">
+      <string>Land!</string>
+    </property>
+  </widget>
+  <widget class="QPushButton" name="recording_button">
+    <property name="geometry">
+      <rect>
+        <x>0</x>
+        <y>150</y>
+        <width>200</width>
+        <height>50</height>
+      </rect>
+    </property>
+    <property name="text">
+      <string>Start/Stop Recording</string>
+    </property>
+  </widget>
+  <widget class="QPushButton" name="toggle_button">
+    <property name="geometry">
+      <rect>
+        <x>0</x>
+        <y>225</y>
+        <width>200</width>
+        <height>50</height>
+      </rect>
+    </property>
+    <property name="text">
+      <string>Mode Toggle</string>
+    </property>
+  </widget>
+  <widget class="QPushButton" name="startover_button">
+    <property name="geometry">
+      <rect>
+        <x>0</x>
+        <y>300</y>
+        <width>200</width>
+        <height>50</height>
+      </rect>
+    </property>
+    <property name="text">
+      <string>startover path</string>
+    </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

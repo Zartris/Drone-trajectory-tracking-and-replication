@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="mpc_navigation" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="tf_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="tf_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="std_srvs_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="std_srvs_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="actionlib_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="gmock" />
+      <config projectName="mpc_navigation" targetName="martin_msg_lib_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="tf_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="tf_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="bebop_msgs_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="bebop_msgs_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="doxygen" />
+      <config projectName="mpc_navigation" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="roscpp_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="std_srvs_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="bebop_msgs_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="gmock_main" />
+      <config projectName="mpc_navigation" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="download_extra_data" />
+      <config projectName="mpc_navigation" targetName="tests" />
+      <config projectName="mpc_navigation" targetName="martin_msg_lib_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="std_srvs_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="bebop_msgs_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="bebop_msgs_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="martin_msg_lib_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="std_srvs_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="actionlib_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="martin_msg_lib_generate_messages_lisp" />
+      <config projectName="mpc_navigation" targetName="std_msgs_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="martin_msg_lib_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="clean_test_results" />
+      <config projectName="mpc_navigation" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="mpc_navigation" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="gtest" />
+      <config projectName="mpc_navigation" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="roscpp_generate_messages_py" />
+      <config projectName="mpc_navigation" targetName="gtest_main" />
+      <config projectName="mpc_navigation" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="mpc_navigation" targetName="tf_generate_messages_eus" />
+      <config projectName="mpc_navigation" targetName="run_tests" />
+      <config projectName="mpc_navigation" targetName="tf2_msgs_generate_messages_py" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b273ef1-64ae-4abc-82c3-f5e64fc10718" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/scripts/mpc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/.idea/path_navigator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/include/path_navigator/MPC.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/include/path_navigator/bebop_command.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/include/path_navigator/line.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/include/path_navigator/path_nav_node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/include/path_navigator/vector3d.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/package.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/src/MPC.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/src/bebop_command.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/src/line.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/src/path_nav_node.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../path_navigator/src/vector3d.cpp" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/main_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="51" column="24" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/mpc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="27" column="25" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#744#1532#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/expressions/constants/parameter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/reductions/eval_params.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+              <folding>
+                <element signature="e#540#552#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/problems/problem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="270" selection-start-line="270" selection-end-line="270" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/navigation_node.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/init_params.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="114" column="24" lean-forward="true" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
+              <folding>
+                <element signature="e#1#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gurobi</find>
+      <find>u</find>
+      <find>u</find>
+      <find>x</find>
+      <find>@</find>
+      <find>T =</find>
+      <find>E2</find>
+      <find>cost</find>
+      <find>a2</find>
+      <find>simu</find>
+      <find>solve</find>
+      <find>_r</find>
+      <find>d</find>
+      <find>d</find>
+      <find>d.</find>
+      <find>e5</find>
+      <find>E5</find>
+      <find>parameter</find>
+      <find>nlogics</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/main_test.py" />
+        <option value="$PROJECT_DIR$/scripts/main.py" />
+        <option value="$PROJECT_DIR$/scripts/test.py" />
+        <option value="$PROJECT_DIR$/scripts/test2.py" />
+        <option value="$PROJECT_DIR$/scripts/mpc.py" />
+        <option value="$PROJECT_DIR$/scripts/init_params.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1976" />
+    <option name="y" value="84" />
+    <option name="width" value="1863" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mpc_navigation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mpcNavigation" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="mpc_navigation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mpcNavigation" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="mpcNavigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mpc_navigation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mpcNavigation" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="mpcNavigation" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pid_control_bebop/CMakeLists.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mpc">
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bebop_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="bebop_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bebop_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="bebop_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bebop_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="bebop_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bebop_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="bebop_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bebop_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="bebop_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="martin_msg_lib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="martin_msg_lib_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="martin_msg_lib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="martin_msg_lib_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="martin_msg_lib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="martin_msg_lib_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="martin_msg_lib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="martin_msg_lib_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="martin_msg_lib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="martin_msg_lib_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="std_srvs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="std_srvs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="std_srvs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="std_srvs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_srvs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="std_srvs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mpc_navigation" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mpcNavigation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/main_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mpc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mpcNavigation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/mpc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mpcNavigation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.actionlib_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_generate_messages_py" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_py" />
+      <item itemvalue="Application.bebop_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.bebop_msgs_generate_messages_eus" />
+      <item itemvalue="Application.bebop_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.bebop_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.bebop_msgs_generate_messages_py" />
+      <item itemvalue="Application.clean_test_results" />
+      <item itemvalue="Application.download_extra_data" />
+      <item itemvalue="Application.doxygen" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_eus" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="Application.martin_msg_lib_generate_messages_cpp" />
+      <item itemvalue="Application.martin_msg_lib_generate_messages_eus" />
+      <item itemvalue="Application.martin_msg_lib_generate_messages_lisp" />
+      <item itemvalue="Application.martin_msg_lib_generate_messages_nodejs" />
+      <item itemvalue="Application.martin_msg_lib_generate_messages_py" />
+      <item itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="Application.roscpp_generate_messages_eus" />
+      <item itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="Application.roscpp_generate_messages_py" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="Application.run_tests" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_eus" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_py" />
+      <item itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_msgs_generate_messages_py" />
+      <item itemvalue="Application.std_srvs_generate_messages_cpp" />
+      <item itemvalue="Application.std_srvs_generate_messages_eus" />
+      <item itemvalue="Application.std_srvs_generate_messages_lisp" />
+      <item itemvalue="Application.std_srvs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_srvs_generate_messages_py" />
+      <item itemvalue="Application.tests" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_eus" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_py" />
+      <item itemvalue="Application.tf_generate_messages_cpp" />
+      <item itemvalue="Application.tf_generate_messages_eus" />
+      <item itemvalue="Application.tf_generate_messages_lisp" />
+      <item itemvalue="Application.tf_generate_messages_nodejs" />
+      <item itemvalue="Application.tf_generate_messages_py" />
+      <item itemvalue="Application.gmock" />
+      <item itemvalue="Application.gmock_main" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+      <item itemvalue="Python.main_test" />
+      <item itemvalue="Python.mpc" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mpc" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.main_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b273ef1-64ae-4abc-82c3-f5e64fc10718" name="Default Changelist" comment="" />
+      <created>1556462783944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556462783944</updated>
+      <workItem from="1556462789636" duration="1707000" />
+      <workItem from="1556468307743" duration="3543000" />
+      <workItem from="1556518727741" duration="388000" />
+      <workItem from="1556519126626" duration="28453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34091000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1976" y="84" width="1863" height="1084" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2575674" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3197492" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/main_test.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/test.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/mpc.py</url>
+          <line>265</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/test2.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="x[:, 0] " language="Python" />
+        <watch expression="model.B2" language="Python" />
+        <watch expression="x" language="Python" />
+        <watch expression="x_r" language="Python" />
+        <watch expression="u.value[:, 0]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>u.value[:, 0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x_r</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>model.B2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x[:, 0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>C.reshape(,4)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>C</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>C.reshape(4,)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x[:, t + 1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>[x[:, t + 1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxopt/modeling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38670">
+          <caret line="2580" column="53" selection-start-line="2580" selection-start-column="46" selection-end-line="2580" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/gurobipy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxpy/atoms/atom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxpy/atoms/affine/add_expr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/gurobi.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxpy/expressions/variable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+          <folding>
+            <element signature="e#564#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxpy/expressions/expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="377" selection-start-line="377" selection-end-line="377" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxpy/expressions/cvxtypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxpy/atoms/quad_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxpy/utilities/shape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxpy/interface/numpy_interface/ndarray_interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxpy/expressions/constants/parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/cvxpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#587#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/E1.mat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="820" selection-start-column="820" selection-end-column="820" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/expressions/expression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/utilities/shape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/scipy/signal/lti_conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="336" column="4" selection-start-line="336" selection-start-column="4" selection-end-line="336" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/atoms/affine/unary_operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/atoms/quad_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="207" column="4" selection-start-line="207" selection-start-column="4" selection-end-line="207" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.CLion2018.3/system/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="531" column="4" selection-start-line="531" selection-start-column="4" selection-end-line="531" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="176" selection-start-line="176" selection-end-line="184" selection-end-column="66" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/expressions/leaf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="350" selection-start-line="350" selection-end-line="350" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/navigation_node.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/main_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <folding>
+            <element signature="e#540#552#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/reductions/eval_params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/problems/problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="270" selection-start-line="270" selection-end-line="270" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/cvxpy/expressions/constants/parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/mpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#744#1532#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/init_params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="114" column="24" lean-forward="true" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

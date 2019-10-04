@@ -1,0 +1,25 @@
+bashrc ADD:
+
+source /opt/ros/kinetic/setup.bash
+source /home/zartris/Code/Drone_ws/thirdparty/LCSD_SLAM/ORB_SLAM2/Examples/ROS/ORB_SLAM2/build/devel/setup.bash
+source /home/zartris/Code/Drone_ws/thirdparty/LCSD_SLAM/DSO_ROS/catkin_ws/devel/setup.bash
+export DSO_PATH=/home/zartris/Code/Drone_ws/thirdparty/LCSD_SLAM/DSO
+export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:/home/zartris/Code/Drone_ws/thirdparty/LCSD_SLAM/
+export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:/home/zartris/Code/Drone_ws/thirdparty/LCSD_SLAM/ORB_SLAM2/Examples/ROS
+export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:/home/zartris/Code/Drone_ws/thirdparty/LCSD_SLAM/DSO_ROS/catkin_ws/src/dso_ros
+export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:/home/zartris/Code/Drone_ws/thirdparty/LCSD_SLAM/Examples/ROS
+
+
+
+CMAKELIST in [DSO_ROS/catkin_ws/src/dso_ros/CMakeLists.txt] add top end:
+	## Declare a C++ executable
+	add_executable(dso_live src/main.cpp)
+
+	target_link_libraries(dso_live
+	    ${DSO_LIBRARY}
+	    ${Pangolin_LIBRARIES}
+	    ${OpenCV_LIBS}
+	    ${catkin_LIBRARIES})
+
+and build.
+

@@ -1,0 +1,46 @@
+%YAML:1.0
+---
+type: IMU
+name: PiSense
+Gyr:
+   unit: " rad/s"
+   avg-axis:
+      gyr_n: 2.5164336821971683e-03
+      gyr_w: 8.8385571217649788e-05
+   x-axis:
+      gyr_n: 3.5975959810655230e-03
+      gyr_w: 1.1442462033571155e-04
+   y-axis:
+      gyr_n: 1.9794599117461359e-03
+      gyr_w: 7.6415649504040645e-05
+   z-axis:
+      gyr_n: 1.9722451537798457e-03
+      gyr_w: 7.4316443813197155e-05
+Acc:
+   unit: " m/s^2"
+   avg-axis:
+      acc_n: 1.9733502616098377e-02
+      acc_w: 1.3037919732620201e-03
+   x-axis:
+      acc_n: 6.9741230604813166e-03
+      acc_w: 3.1276402743730296e-04
+   y-axis:
+      acc_n: 1.1561692022011620e-02
+      acc_w: 4.8549544170132386e-04
+   z-axis:
+      acc_n: 4.0664692765802188e-02
+      acc_w: 3.1131164506474338e-03
+
+
+
+  accelerometer_noise_density: 4.0664692765802188e-02
+  accelerometer_random_walk: 3.1131164506474338e-03
+  gyroscope_noise_density: 3.5975959810655230e-03
+  gyroscope_random_walk: 1.1442462033571155e-04
+
+#imu parameters       The more accurate parameters you provide, the better performance
+acc_n: 4.0664692765802188e-02         # accelerometer measurement noise standard deviation. #0.2
+gyr_n: 3.5975959810655230e-03      # gyroscope measurement noise standard deviation.     #0.05
+acc_w: 3.1131164506474338e-03    # accelerometer bias random work noise standard deviation.  #0.02
+gyr_w: 1.1442462033571155e-04      # gyroscope bias random work noise standard deviation.     #4.0e-5
+g_norm: 9.81007     # gravity magnitude

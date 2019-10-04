@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="vins_estimator" targetName="run_tests" />
+      <config projectName="vins_estimator" targetName="gtest_main" />
+      <config projectName="vins_estimator" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="vins_estimator" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="vins_estimator" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="vins_estimator" targetName="tf_generate_messages_nodejs" />
+      <config projectName="vins_estimator" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="vins_estimator" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="vins_estimator" targetName="tf_generate_messages_py" />
+      <config projectName="vins_estimator" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="vins_estimator" targetName="download_extra_data" />
+      <config projectName="vins_estimator" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="vins_estimator" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="vins_estimator" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="vins_estimator" targetName="gmock" />
+      <config projectName="vins_estimator" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="vins_estimator" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="vins_estimator" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="vins_estimator" targetName="tf_generate_messages_eus" />
+      <config projectName="vins_estimator" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="vins_estimator" targetName="tf_generate_messages_cpp" />
+      <config projectName="vins_estimator" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="vins_estimator" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="vins_estimator" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="vins_estimator" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="vins_estimator" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="vins_estimator" targetName="tests" />
+      <config projectName="vins_estimator" targetName="roscpp_generate_messages_py" />
+      <config projectName="vins_estimator" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="vins_estimator" targetName="nav_msgs_generate_messages_py" />
+      <config projectName="vins_estimator" targetName="actionlib_generate_messages_eus" />
+      <config projectName="vins_estimator" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="vins_estimator" targetName="nav_msgs_generate_messages_cpp" />
+      <config projectName="vins_estimator" targetName="actionlib_generate_messages_py" />
+      <config projectName="vins_estimator" targetName="nav_msgs_generate_messages_lisp" />
+      <config projectName="vins_estimator" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="vins_estimator" targetName="nav_msgs_generate_messages_nodejs" />
+      <config projectName="vins_estimator" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="vins_estimator" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="vins_estimator" targetName="doxygen" />
+      <config projectName="vins_estimator" targetName="vins_estimator" />
+      <config projectName="vins_estimator" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="vins_estimator" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="vins_estimator" targetName="clean_test_results" />
+      <config projectName="vins_estimator" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="vins_estimator" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="vins_estimator" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="vins_estimator" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="vins_estimator" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="vins_estimator" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="vins_estimator" targetName="gtest" />
+      <config projectName="vins_estimator" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="vins_estimator" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="vins_estimator" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="vins_estimator" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="vins_estimator" targetName="roscpp_generate_messages_eus" />
+      <config projectName="vins_estimator" targetName="std_msgs_generate_messages_py" />
+      <config projectName="vins_estimator" targetName="gmock_main" />
+      <config projectName="vins_estimator" targetName="tf_generate_messages_lisp" />
+      <config projectName="vins_estimator" targetName="geometry_msgs_generate_messages_eus" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b7903f9-4049-4173-ae12-e2be2a09777f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/timestamp_sync_fixer/include/timestamp_sync_fixer/ts_fixer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../test/src/timestamp_sync_fixer/src/ts_fixer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Calibration_Tool/kalibr_workspace/src/Kalibr" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Calibration_Tool/kalibr_workspace/src/Kalibr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config/bebop/bebop2_camera_calib.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../config/bebop/bebop2_camera_calib.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../output/vins_result_loop.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../output/vins_result_loop.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../output/vins_result_no_loop.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../output/vins_result_no_loop.csv" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/estimator.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="618" column="1" selection-start-line="618" selection-start-column="1" selection-end-line="618" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/estimator_node.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8850">
+              <caret line="354" column="48" selection-start-line="354" selection-start-column="48" selection-end-line="354" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/parameters.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/parameters.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1396">
+              <caret line="65" column="17" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/src/gmock/src/gmock-spec-builders.cc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1300">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utility/visualization.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8350">
+              <caret line="334" column="39" selection-start-line="334" selection-start-column="39" selection-end-line="334" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>co</find>
+      <find>sensor_m</find>
+      <find>imu_msg</find>
+      <find>advertise</find>
+      <find>subscribe(</find>
+      <find>mutex</find>
+      <find>imu</find>
+      <find>acc_0</find>
+      <find>bias</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="114" />
+    <option name="y" value="42" />
+    <option name="width" value="2766" />
+    <option name="height" value="1758" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vins_estimator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vins_estimator" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="vins_estimator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vins_estimator" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="vins_estimator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vins_estimator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vins_estimator" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="vins_estimator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Slam/DeepSlam/src/sml_mono_slam/CMakeLists.txt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.vins_estimator">
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="nav_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="nav_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="nav_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="nav_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nav_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="nav_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vins_estimator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vins_estimator" TARGET_NAME="vins_estimator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="vins_estimator" RUN_TARGET_NAME="vins_estimator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.actionlib_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_generate_messages_py" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_py" />
+      <item itemvalue="Application.clean_test_results" />
+      <item itemvalue="Application.download_extra_data" />
+      <item itemvalue="Application.doxygen" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_eus" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="Application.nav_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.nav_msgs_generate_messages_eus" />
+      <item itemvalue="Application.nav_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.nav_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.nav_msgs_generate_messages_py" />
+      <item itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="Application.roscpp_generate_messages_eus" />
+      <item itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="Application.roscpp_generate_messages_py" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="Application.run_tests" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_eus" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_py" />
+      <item itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_msgs_generate_messages_py" />
+      <item itemvalue="Application.tests" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_eus" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_py" />
+      <item itemvalue="Application.tf_generate_messages_cpp" />
+      <item itemvalue="Application.tf_generate_messages_eus" />
+      <item itemvalue="Application.tf_generate_messages_lisp" />
+      <item itemvalue="Application.tf_generate_messages_nodejs" />
+      <item itemvalue="Application.tf_generate_messages_py" />
+      <item itemvalue="Application.vins_estimator" />
+      <item itemvalue="Application.gmock" />
+      <item itemvalue="Application.gmock_main" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b7903f9-4049-4173-ae12-e2be2a09777f" name="Default Changelist" comment="" />
+      <created>1550658512182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550658512182</updated>
+      <workItem from="1550658513349" duration="2348000" />
+      <workItem from="1550662588528" duration="3947000" />
+      <workItem from="1550824362504" duration="14000" />
+      <workItem from="1551178809611" duration="731000" />
+      <workItem from="1552482518827" duration="1054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8094000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="114" y="42" width="2766" height="1758" extended-state="4" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.362621" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296417" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/include/c++/5/bits/stl_queue.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="144" column="6" selection-start-line="144" selection-start-column="6" selection-end-line="144" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="378" column="6" selection-start-line="378" selection-start-column="6" selection-end-line="378" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/estimator_node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8850">
+          <caret line="354" column="48" selection-start-line="354" selection-start-column="48" selection-end-line="354" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parameters.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/src/gmock/src/gmock-spec-builders.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utility/visualization.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8350">
+          <caret line="334" column="39" selection-start-line="334" selection-start-column="39" selection-end-line="334" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parameters.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1396">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/estimator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="618" column="1" selection-start-line="618" selection-start-column="1" selection-end-line="618" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,137 @@
+%YAML:1.0
+
+#common parameters
+imu_topic: "/imu"
+image_topic: "/bebop/image_raw"
+output_path: "/home/zartris/Code/Drone_MARTIN/output"
+
+model_type: PINHOLE
+camera_name: bebop-front
+image_width: 856
+image_height: 480
+distortion_parameters:
+   k1: 4.7465342510038056e-03
+   k2: -1.1556249648184684e-02
+   p1: -1.4376921337682320e-02
+   p2: -8.9507819034237044e-04
+projection_parameters:
+   fx: 5.3516773246048513e+02
+   fy: 5.2784121689795109e+02
+   cx: 4.2626125835718551e+02
+   cy: 2.1713515387119071e+02
+
+
+# Extrinsic parameter between IMU and Camera.
+estimate_extrinsic: 2  # 0  Have an accurate extrinsic parameters. We will trust the following imu^R_cam, imu^T_cam, don't change it.
+                        # 1  Have an initial guess about extrinsic parameters. We will optimize around your initial guess.
+                        # 2  Don't know anything about extrinsic parameters. You don't need to give R,T. We will try to calibrate it. Do some rotation movement at beginning.                        
+
+
+#If you choose 0 or 1, you should write down the following matrix. (IMU TO CAM)
+#extrinsicRotation: !!opencv-matrix
+#   rows: 3
+#   cols: 3
+#   dt: d
+#   data: [0.0251489, 0.99861263, -0.0462639,
+#           -0.24321801, 0.05100002, 0.96862996, 
+#           0.96964557, -0.01310776, 0.24416317]
+##Translation from camera frame to imu frame, imu^T_cam
+#extrinsicTranslation: !!opencv-matrix
+#   rows: 3
+#   cols: 1
+#   dt: d
+#   data: [-0.0079632,0.11147622, -0.14677433]
+
+## SELF CALCULATED:
+
+#extrinsicRotation: !!opencv-matrix
+#   rows: 3
+#   cols: 3
+#   dt: d
+#   data: [ 2.4791348257715340e-02, 2.1674726129652688e-01,
+#       9.7591291300608374e-01, 9.9682894975407388e-01,
+#       6.8478071469890267e-02, -4.0531452724456407e-02,
+#       -7.5613715579615048e-02, 9.7382307348317632e-01,
+#       -2.1436228112246214e-01 ]
+#extrinsicTranslation: !!opencv-matrix
+#   rows: 3
+#   cols: 1
+#   dt: d
+#   data: [ 2.3217775498957233e-01, -8.9524664682734165e-02,
+#       -1.4189813302006449e-01 ]
+
+#extrinsicRotation: !!opencv-matrix
+#   rows: 3
+#   cols: 3
+#   dt: d
+#   data: [ -4.7844696865162706e-01, -1.1232882987384357e-01,
+#       8.7090225178675595e-01, 8.7725015556021058e-01,
+#       -1.0518613357885798e-01, 4.6836742187338004e-01,
+#       3.8995676140504421e-02, 9.8808810906816591e-01,
+#       1.4886647023571553e-01 ]
+#extrinsicTranslation: !!opencv-matrix
+#   rows: 3
+#   cols: 1
+#   dt: d
+#   data: [ 3.3513992440005264e-01, -2.6523403733671219e-01,
+#       -1.8213643619678066e-01 ]
+
+## CALCULATED:
+extrinsicRotation: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ -0.33408501,  0.08462253, 0.93873651,
+            0.90897385, -0.23450972, 0.34463275,
+            0.24930653,  0.96842357, 0.00142651]
+extrinsicTranslation: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ -0.21489313, -0.0965252, -0.04030661 ]
+
+#feature traker paprameters
+max_cnt: 150            # max feature number in feature tracking
+min_dist: 15           # min distance between two features 
+freq: 15                # frequence (Hz) of publish tracking result. At least 10Hz for good estimation. If set 0, the frequence will be same as raw image 
+F_threshold: 1.0        # ransac threshold (pixel)
+show_track: 1           # publish tracking image as topic
+equalize: 1             # if image is too dark or light, trun on equalize to find enough features
+fisheye: 0              # if using fisheye, trun on it. A circle mask will be loaded to remove edge noisy points
+
+#optimization parameters
+max_solver_time: 0.04  # max solver itration time (ms), to guarantee real time
+max_num_iterations: 10   # max solver itrations, to guarantee real time
+keyframe_parallax: 10.0 # keyframe selection threshold (pixel)
+
+#imu parameters       The more accurate parameters you provide, the better performance
+#acc_n: 4.0664692765802188e-01         # accelerometer measurement noise standard deviation. #0.2
+#gyr_n: 3.5975959810655230e-02      # gyroscope measurement noise standard deviation.     #0.05
+#acc_w: 3.1131164506474338e-02    # accelerometer bias random work noise standard deviation.  #0.02
+#gyr_w: 1.1442462033571155e-03      # gyroscope bias random work noise standard deviation.     #4.0e-5
+#g_norm: 9.81007     # gravity magnitude
+#imu parameters       The more accurate parameters you provide, the better performance
+acc_n: 0.2         # accelerometer measurement noise standard deviation. #0.2
+gyr_n: 0.05      # gyroscope measurement noise standard deviation.     #0.05
+acc_w: 0.02    # accelerometer bias random work noise standard deviation.  #0.02
+gyr_w: 4.0e-5      # gyroscope bias random work noise standard deviation.     #4.0e-5
+
+#loop closure parameters
+loop_closure: 1                 # start loop closure
+load_previous_pose_graph: 0     # load and reuse previous pose graph; load from 'pose_graph_save_path'
+fast_relocalization: 1         # useful in real-time and large project
+pose_graph_save_path: "/home/zartris/Code/Drone_MARTIN/output/pose_graph/" # save and load path
+
+#unsynchronization parameters
+estimate_td: 1                      # online estimate time offset between camera and imu
+td: -0.1153524                          # initial value of time offset. unit: s. readed image clock + td = real image clock (IMU clock)
+
+#rolling shutter parameters
+rolling_shutter: 1                  # 0: global shutter camera, 1: rolling shutter camera
+rolling_shutter_tr: 2.60908733843e-08  # unit: s. rolling shutter read out time per frame (from data sheet). 
+
+#visualization parameters
+save_image: 1                   # save image in pose graph for visualization prupose; you can close this function by setting 0 
+visualize_imu_forward: 1        # output imu forward propogation to achieve low latency and high frequence results
+visualize_camera_size: 0.2      # size of camera marker in RVIZ
+
